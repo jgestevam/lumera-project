@@ -68,15 +68,16 @@ O objetivo geral é desenvolver uma plataforma web que facilite e agilize a cria
 - Banco de dados, autenticação e armazenamento com Supabase
 - Hospedagem do frontend na Vercel
 - Apoio de IA no desenvolvimento com Claude, Codex e Grok
+- Frontend: Lua, Css, Html e JavaScript
+- Backend: TypeScript e JavaScript (NodeJS)
 
 ### A definir
 
-- Linguagem de programação
 - Framework do frontend
 - Biblioteca de estilos e componentes
 - Ferramenta de testes automatizados
 
-Todo código gerado com apoio de IA passa por revisão humana antes do merge. Nenhuma credencial ou dado real de usuário é enviado para esses assistentes.
+Todo código gerado com apoio de IA passa por revisão humana atavés dos "Pull requests".
 
 ## Fluxo de trabalho
 
